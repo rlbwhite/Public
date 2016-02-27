@@ -1,0 +1,16 @@
+THIS IS JUST A CHANGE FOR TESTING PURPOSES IGNORE IF NEEDED.DS_Store
+.project
+.settings
+target
+powerflare-server/out/*
+powerflare-server/out/
+.idea
+
+burndown-chart/burndown-chart.iml
+
+richfaces-long-running-task/richfaces-long-running-task (1).iml
+
+safety-facade/safety-facade (1).iml
+atlassian-ide-plugin.xml
+*.iml
+Changes made simply for testing 
